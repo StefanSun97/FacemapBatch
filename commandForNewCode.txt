@@ -1,0 +1,5 @@
+cd /vast/palmer/scratch/cardin/ts893/face/code
+dos2unix submit_all.sh
+dos2unix run_facemap.sh
+chmod +x run_facemap.sh submit_all.sh
+
