@@ -8,7 +8,7 @@ These codes allow you to run all your facial videos with Facemap on the cluster 
 What you need to do:
 1. Create an environment and install Facemap on your cluster.
 2. On your local computer, open each video with Facemap GUI(python), select ROI for motionSVD, uncheck the GPU option, and then save ROIs to get the proc.npy file. 
-3. Organize the codes and your raw data+proc.npy file as below. (Manually create the log folder too)
+3. Organize the codes and your raw data+proc.npy file as below. (Manually create the log folder too) (Might need to download the README file to read)
 4. Run! In the code folder, run: bash submit_all.sh
 
 
